@@ -1,8 +1,8 @@
-# Llama
+# Llama 🐑
 
 - **LLaMA** (Large Language Model Meta AI) is a family of foundational language models developed by Meta AI. 
 - These models are designed to generate human-quality text, translate languages, write creative content, and answer your questions.
-- Example: MetAI with Llama 3.1 in WhatsApp, Facebook, and Instgram.
+- Example: MetAI with Llama 3.1 in WhatsApp, Facebook, and Instagram.
 
 ### **Key Features of LLaMA:**
 - **Efficiency:** More efficient than larger models like GPT-3, requiring less computational power to train and run.
